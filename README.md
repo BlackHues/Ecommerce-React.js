@@ -68,3 +68,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+`npm install react-router-dom`
+
+## project tutorial
+
+create project folder
+inside folder type @terminal `npm create-react-app .`
+create project in same folder
+start project `npm start`
+open src
+clear App.js
+index.html title 
+change name
+
+src folder - create Components -Navbar, Pages, Context- context api's, Assets -images
